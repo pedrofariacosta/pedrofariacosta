@@ -7,32 +7,30 @@ Atualmente estou estudando e desenvolvendo projetos principalmente nas áreas de
 ## 🛠️ Tecnologias
 
 **Linguagens**
+- Java
+- JavaScript
+- SQL
 
-* Java
-* JavaScript
-* SQL
+**Backend**
+- Spring Boot
 
-**Web**
+**Desenvolvimento Web**
+- HTML
+- CSS
+- Bootstrap
 
-* HTML
-* CSS
-* Bootstrap
-
-**Mobile**
-
-* React Native
-* Expo
+**Desenvolvimento Mobile**
+- React Native
+- Expo
 
 **Banco de dados**
-
-* MySQL
+- MySQL
 
 **Ferramentas**
-
-* Git
-* GitHub
-* NetBeans
-* VS Code
+- Git
+- GitHub
+- NetBeans
+- VS Code
 
 ## 📌 Projetos
 
@@ -50,11 +48,9 @@ Projeto desenvolvido durante a graduação.
 
 ## 📚 Atualmente estudando
 
-* Desenvolvimento de software
-* Programação em Java
-* Desenvolvimento web e mobile
-* Banco de dados
-* Git e GitHub
+- Desenvolvimento de aplicações com Java e Spring Boot
+- Desenvolvimento web e mobile
+- Banco de dados e SQL
 
 ## 📫 Contato
 
