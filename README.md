@@ -34,18 +34,18 @@ Atualmente estou estudando e desenvolvendo projetos principalmente nas áreas de
 * NetBeans
 * VS Code
 
-## 📌 Alguns projetos
+## 📌 Projetos
 
-🎮 **Tetris**
+🎮 [Tetris](https://github.com/pedrofariacosta/tetris)
 Jogo desenvolvido como projeto acadêmico utilizando HTML, CSS, Bootstrap, JavaScript e Java.
 
-📱 **Tetris App**
+📱 [Tetris App](https://github.com/pedrofariacosta/tetris-app)
 Versão mobile do jogo desenvolvida com React Native e Expo.
 
-🧪 **Soda Lab**
+🧪 [Soda Lab](https://github.com/pedrofariacosta/soda.lab)
 Projeto desenvolvido durante a graduação.
 
-💻 **Siege**
+💻 [Siege](https://github.com/pedrofariacosta/siege) 
 Projeto desenvolvido durante a graduação.
 
 ## 📚 Atualmente estudando
@@ -58,4 +58,4 @@ Projeto desenvolvido durante a graduação.
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/pedro-arthur-faria-costa-206059270/) • [Email](pedrofaria356@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/pedro-arthur-faria-costa-206059270/) • [Email](mailto:pedrofaria356@gmail.com)
