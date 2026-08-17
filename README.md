@@ -3,7 +3,7 @@
 Estudante de Ciência da Computação no IFSULDEMINAS, focado em desenvolvimento de software com ênfase em back-end e ecossistema Java.
 
 ### 🛠️ Tecnologias & Ferramentas
-- **Linguagens:** Java, JavaScript/TypeScript, SQL
+- **Linguagens:** C, Python, Java, JavaScript/TypeScript, SQL
 - **Back-end & Web:** Spring Boot, REST APIs, HTML5, CSS3, Bootstrap
 - **Mobile:** React Native, Expo
 - **Banco de Dados:** MySQL
