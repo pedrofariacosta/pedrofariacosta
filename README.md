@@ -1,9 +1,9 @@
 # Olá, sou o Pedro 👋
 
-Estudante de Ciência da Computação no IFSULDEMINAS, focado em desenvolvimento de software com ênfase em back-end e ecossistema Java.
+Estudante de Ciência da Computação no IFSULDEMINAS. Atualmente desenvolvendo projetos e aprofundando meus conhecimentos em desenvolvimento de software, principalmente com Java, desenvolvimento web e mobile.
 
 ### 🛠️ Tecnologias & Ferramentas
-- **Linguagens:** C, Python, Java, JavaScript/TypeScript, SQL
+- **Linguagens:** Java, JavaScript, TypeScript, SQL
 - **Back-end & Web:** Spring Boot, REST APIs, HTML5, CSS3, Bootstrap
 - **Mobile:** React Native, Expo
 - **Banco de Dados:** MySQL
